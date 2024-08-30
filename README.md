@@ -4,4 +4,4 @@
 Dave Medrano
 
 ### Members
-Ruby Ann Pacalso
+-PACALSO, Ruby Ann
